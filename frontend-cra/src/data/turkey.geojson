@@ -1,0 +1,345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Istanbul"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.5,
+              41.2
+            ],
+            [
+              29.5,
+              41.2
+            ],
+            [
+              29.5,
+              40.8
+            ],
+            [
+              28.5,
+              40.8
+            ],
+            [
+              28.5,
+              41.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "name": "Ankara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.5,
+              40.2
+            ],
+            [
+              33.5,
+              40.2
+            ],
+            [
+              33.5,
+              39.2
+            ],
+            [
+              32.5,
+              39.2
+            ],
+            [
+              32.5,
+              40.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "name": "Izmir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.8,
+              38.6
+            ],
+            [
+              27.5,
+              38.6
+            ],
+            [
+              27.5,
+              38.1
+            ],
+            [
+              26.8,
+              38.1
+            ],
+            [
+              26.8,
+              38.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "name": "Antalya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.2,
+              37.2
+            ],
+            [
+              31.2,
+              37.2
+            ],
+            [
+              31.2,
+              36.5
+            ],
+            [
+              30.2,
+              36.5
+            ],
+            [
+              30.2,
+              37.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "name": "Samsun"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.8,
+              41.6
+            ],
+            [
+              36.8,
+              41.6
+            ],
+            [
+              36.8,
+              41.1
+            ],
+            [
+              35.8,
+              41.1
+            ],
+            [
+              35.8,
+              41.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "name": "Gaziantep"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.1,
+              37.3
+            ],
+            [
+              37.8,
+              37.3
+            ],
+            [
+              37.8,
+              36.8
+            ],
+            [
+              37.1,
+              36.8
+            ],
+            [
+              37.1,
+              37.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "name": "Trabzon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.4,
+              41.2
+            ],
+            [
+              40.1,
+              41.2
+            ],
+            [
+              40.1,
+              40.8
+            ],
+            [
+              39.4,
+              40.8
+            ],
+            [
+              39.4,
+              41.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "name": "Erzurum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.0,
+              40.2
+            ],
+            [
+              41.8,
+              40.2
+            ],
+            [
+              41.8,
+              39.5
+            ],
+            [
+              41.0,
+              39.5
+            ],
+            [
+              41.0,
+              40.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "name": "Diyarbakir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.8,
+              38.2
+            ],
+            [
+              40.8,
+              38.2
+            ],
+            [
+              40.8,
+              37.6
+            ],
+            [
+              39.8,
+              37.6
+            ],
+            [
+              39.8,
+              38.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "name": "Bursa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.8,
+              40.3
+            ],
+            [
+              29.5,
+              40.3
+            ],
+            [
+              29.5,
+              39.8
+            ],
+            [
+              28.8,
+              39.8
+            ],
+            [
+              28.8,
+              40.3
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
