@@ -29,10 +29,16 @@ const Login = () => {
         body: JSON.stringify({ username, password, role })
       });
 
-      const data = await response.json();
+      let data;
+      try {
+        data = await response.json();
+      } catch {
+        alert("Sunucudan veri alınamadı");
+        return;
+      }
 
       if (!response.ok) {
-        alert(data.error || "Giriş başarısız oldu");
+        alert(data.error || data.message || "Giriş başarısız");
         return;
       }
 
